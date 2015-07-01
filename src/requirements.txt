@@ -1,0 +1,4 @@
+python-digitalocean==1.6
+bottle==0.12.7
+gunicorn==19.0.0
+IPy
